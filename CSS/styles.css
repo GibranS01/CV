@@ -1,0 +1,30 @@
+body {
+  background-color: #E4E4E4;
+}
+
+hr {
+  border-color: lightgrey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+}
+h1{
+  color: #062121;
+  text-align: center;
+}
+h3{
+  color: #044343;
+}
+p{
+  text-align: center;
+}
+table{
+  align-items: center;
+}
+.ImagenGib{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 9%;
+  height: 100px;
+}
